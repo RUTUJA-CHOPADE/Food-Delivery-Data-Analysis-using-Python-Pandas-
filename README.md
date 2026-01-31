@@ -17,4 +17,4 @@ This project analyzes a food delivery dataset by merging orders, users, and rest
 ## How to Run
 1. Clone this repository:
 ```bash
-git clone <your-repo-link>
+git clone <(https://github.com/RUTUJA-CHOPADE/Food-Delivery-Data-Analysis-using-Python-Pandas)>
